@@ -1,2 +1,2 @@
 
-# project with some sorting algorithms in Ruby
+# Project with some sorting algorithms in Ruby
